@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a2eaded0c32812108a71990ed40131fd" label="Spotify Shows" max_length="40" name="x_528992_spotify_0_spotify_shows" type="collection">
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="Publisher" max_length="40" name="publisher" type="string"/>
+        <element label="Show URL" max_length="40" name="show_url" type="string"/>
+        <element label="Type" max_length="40" name="type" type="string"/>
+        <element label="Media Type" max_length="40" name="media_type" type="string"/>
+        <element label="Total Episodes" max_length="40" name="total_episodes" type="integer"/>
+        <element label="Show ID" max_length="40" name="show_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+    </element>
+</database>
