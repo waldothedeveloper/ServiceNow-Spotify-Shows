@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Request a Spotify Show">7a71e61cc32812108a71990ed401316d</sc_cat_item>
+        <sc_category display_value="Spotify Show">0cd1625cc32812108a71990ed401317a</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 03:41:04</sys_created_on>
+        <sys_id>870322dcc32812108a71990ed4013199</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Spotify Show.Request a Spotify Show</sys_name>
+        <sys_package display_value="Spotify Shows" source="x_528992_spotify_0">ea39da50c32812108a71990ed4013196</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Spotify Shows">ea39da50c32812108a71990ed4013196</sys_scope>
+        <sys_update_name>sc_cat_item_category_870322dcc32812108a71990ed4013199</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 03:41:04</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Spotify Shows">ea39da50c32812108a71990ed4013196</application>
+        <file_path/>
+        <instance_id>c58cbc32db463550ebdd2a59139619e1</instance_id>
+        <instance_name>dev194390</instance_name>
+        <name>sc_cat_item_category_870322dcc32812108a71990ed4013199</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request a Spotify Show">7a71e61cc32812108a71990ed401316d</sc_cat_item><sc_category display_value="Spotify Show">0cd1625cc32812108a71990ed401317a</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-06 03:41:04</sys_created_on><sys_id>870322dcc32812108a71990ed4013199</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Spotify Show.Request a Spotify Show</sys_name><sys_package display_value="Spotify Shows" source="x_528992_spotify_0">ea39da50c32812108a71990ed4013196</sys_package><sys_policy/><sys_scope display_value="Spotify Shows">ea39da50c32812108a71990ed4013196</sys_scope><sys_update_name>sc_cat_item_category_870322dcc32812108a71990ed4013199</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-06 03:41:04</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>847967774</payload_hash>
+        <record_name>Spotify Show.Request a Spotify Show</record_name>
+        <reverted_from/>
+        <source>ae39da50c32812108a71990ed40131c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 03:41:04</sys_created_on>
+        <sys_id>4b0322dcc32812108a71990ed401319d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191c56bd7b70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 03:41:04</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>8b0322dce52812101ed053844266c79c</update_guid>
+        <update_guid_history>8b0322dce52812101ed053844266c79c:847967774</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Spotify Show.Request a Spotify Show">881362dcc32812108a71990ed4013134</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 03:41:08</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>77d51dd9566a42338a93e67a7642a701</sys_id>
+        <sys_metadata>870322dcc32812108a71990ed4013199</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Spotify Show.Request a Spotify Show</sys_name>
+        <sys_package display_value="Spotify Shows" source="x_528992_spotify_0">ea39da50c32812108a71990ed4013196</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Spotify Shows">ea39da50c32812108a71990ed4013196</sys_scope>
+        <sys_scope_delete display_value="">130fd7f84f8f4834845294d06307d9c4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_870322dcc32812108a71990ed4013199</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_870322dcc32812108a71990ed4013199">4b0322dcc32812108a71990ed401319d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 03:41:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
